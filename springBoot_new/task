@@ -1,0 +1,21 @@
+I/P:
+192.168.2.203:8080/loga?page=1&records=100
+
+
+O/P
+{
+"key1":val1
+},
+{
+"key2":val2
+},
+{
+"key3":val3
+},
+
+If no input
+By default show 25 records of page
+
+
+
+
